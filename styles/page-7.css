@@ -1,0 +1,311 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+input {
+    border: none;
+}
+
+body {
+    width: 192rem;
+}
+
+.page-7-k4n {
+    width: 100%;
+    height: 97.4rem;
+    position: relative;
+    overflow: hidden;
+    background-color: #f4f9ff;
+}
+
+.page-7-k4n a {
+    text-decoration: none;
+}
+
+.page-7-k4n .component-25-HaW {
+    width: 19rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 124rem;
+    top: 24.3rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e2be88;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .component-26-Znv {
+    width: 20.8rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 101.3rem;
+    top: 24.3rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .component-27-2gW {
+    width: 20.2rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 79.2rem;
+    top: 24.5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .component-28-7hx {
+    width: 20.4rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 56.9rem;
+    top: 24.5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .component-29-bt2 {
+    width: 22.4rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 32.6rem;
+    top: 24.5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .auto-group-bxy6-ViW {
+    width: 180.3rem;
+    height: 64.7rem;
+    position: absolute;
+    left: 2rem;
+    top: 33.7rem;
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .rectangle-8-DeW {
+    width: 127.2rem;
+    height: 1.4rem;
+    position: absolute;
+    left: 30.4rem;
+    top: 54.1rem;
+    background-color: #000000;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .download6-removebg-preview-1-9HG {
+    width: 48.4rem;
+    height: 16.5rem;
+    position: absolute;
+    left: 131.9rem;
+    top: 40.8rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .rectangle-7-qvn {
+    width: 127.2rem;
+    height: 52.4rem;
+    position: absolute;
+    left: 30.4rem;
+    top: 0;
+    border: solid 0.3rem #000000;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 1rem;
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .download4-removebg-preview-1-mJe {
+    width: 39.3rem;
+    height: 39.3rem;
+    position: absolute;
+    left: 0;
+    top: 25.4rem;
+    object-fit: cover;
+    vertical-align: top;
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ {
+    width: 117.3rem;
+    height: 21rem;
+    position: absolute;
+    left: 34.1rem;
+    top: 29.4rem;
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ-sub-0 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ-sub-1 {
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ-sub-2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ .preferred-skills-r-python-scala-julia-java-role-and-responsibilities-designing-and-developing-machine-learning-and-deep-learning-systems-implementing-appropriate-ml-algorithms-perform-statistical-analysis-train-and-retrain-data-and-systems-undertaking-machine-learning-experiments-and-test-developing-deep-learning-systems-based-on-business-needs-finally-implementing-suitable-ai-ml-algorithms-gwQ-sub-3 {
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .machine-learning-engineers-specialize-in-designing-developing-and-implementing-machine-learning-models-and-systems-they-work-with-data-scientists-to-transform-research-prototypes-into-production-ready-systems-machine-learning-engineers-optimize-models-for-performance-scalability-and-efficiency-considering-factors-such-as-data-preprocessing-feature-engineering-and-model-deployment-their-work-contributes-to-the-development-of-intelligent-systems-that-can-make-automated-decisions-and-predictions-9kS {
+    width: 119.8rem;
+    height: 26.6rem;
+    position: absolute;
+    left: 34.1rem;
+    top: 3.7rem;
+    font-size: 2.6rem;
+    font-weight: 400;
+    line-height: 1.4615384615;
+    font-style: italic;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .auto-group-bxy6-ViW .this-website-is-run-by-florence-group-the-data-collected-from-this-was-done-be-processed-by-ryxhna-TuY {
+    width: 73.7rem;
+    height: 1.9rem;
+    position: absolute;
+    left: 57.15rem;
+    top: 57.2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #6d6d6d;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.page-7-k4n .auto-group-be6j-wZp {
+    width: 92.1rem;
+    height: 14.2rem;
+    position: absolute;
+    left: 32.4rem;
+    top: 4.4rem;
+}
+
+.page-7-k4n .auto-group-be6j-wZp .select-your-professions-career-5R8 {
+    width: 73.9rem;
+    height: 8.4rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 6.4rem;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #000000;
+    font-family: Crimson Text, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.page-7-k4n .auto-group-be6j-wZp .to-make-informed-career-decisions-its-important-to-understand-the-distinct-roles-within-the-data-and-artificial-intelligence-ai-field-zHC {
+    width: 92.1rem;
+    height: 5.9rem;
+    position: absolute;
+    left: 0;
+    top: 8.3rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-7-k4n .component-7-SQ6 {
+    width: 14.7rem;
+    height: 5.7rem;
+    position: absolute;
+    left: 144.9rem;
+    top: 24.4rem;
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.5833333333;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4b4b4b;
+    border-radius: 1rem;
+}

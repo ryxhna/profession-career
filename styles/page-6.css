@@ -1,0 +1,311 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+input {
+    border: none;
+}
+
+body {
+    width: 192rem;
+}
+
+.page-6-udx {
+    width: 100%;
+    height: 97.4rem;
+    position: relative;
+    overflow: hidden;
+    background-color: #f4f9ff;
+}
+
+.page-6-udx a {
+    text-decoration: none;
+}
+
+.page-6-udx .component-24-4Fx {
+    width: 19rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 124rem;
+    top: 24.3rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-6-udx .component-22-wDG {
+    width: 20.2rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 79.2rem;
+    top: 24.5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-6-udx .component-21-Sfp {
+    width: 20.4rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 56.9rem;
+    top: 24.5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-6-udx .component-20-w6n {
+    width: 22.4rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 32.6rem;
+    top: 24.5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8dee4;
+    border-radius: 1rem;
+}
+
+.page-6-udx .component-23-8Fp {
+    width: 20.8rem;
+    height: 5.7rem;
+    cursor: pointer;
+    position: absolute;
+    left: 101.3rem;
+    top: 24.3rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e2be88;
+    border-radius: 1rem;
+}
+
+.page-6-udx .component-7-BYA {
+    width: 14.7rem;
+    height: 5.7rem;
+    position: absolute;
+    left: 144.9rem;
+    top: 24.4rem;
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.5833333333;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4b4b4b;
+    border-radius: 1rem;
+}
+
+.page-6-udx .auto-group-hzjs-pRU {
+    width: 180.3rem;
+    height: 64.7rem;
+    position: absolute;
+    left: 2rem;
+    top: 33.7rem;
+}
+
+.page-6-udx .auto-group-hzjs-pRU .rectangle-8-PN6 {
+    width: 127.2rem;
+    height: 1.4rem;
+    position: absolute;
+    left: 30.4rem;
+    top: 54.1rem;
+    background-color: #000000;
+    border-radius: 1rem;
+}
+
+.page-6-udx .auto-group-hzjs-pRU .download6-removebg-preview-1-u5Y {
+    width: 48.4rem;
+    height: 16.5rem;
+    position: absolute;
+    left: 131.9rem;
+    top: 40.8rem;
+    object-fit: contain;
+    vertical-align: top;
+}
+
+.page-6-udx .auto-group-hzjs-pRU .rectangle-7-RZg {
+    width: 127.2rem;
+    height: 52.4rem;
+    position: absolute;
+    left: 30.4rem;
+    top: 0;
+    border: solid 0.3rem #000000;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-radius: 1rem;
+}
+
+.page-6-udx .auto-group-hzjs-pRU .download4-removebg-preview-1-9En {
+    width: 39.3rem;
+    height: 39.3rem;
+    position: absolute;
+    left: 0;
+    top: 25.4rem;
+    object-fit: cover;
+    vertical-align: top;
+}
+
+.page-6-udx .auto-group-hzjs-pRU .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx {
+    width: 105.6rem;
+    height: 12rem;
+    position: absolute;
+    left: 34.1rem;
+    top: 26.6rem;
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-6-udx .auto-group-hzjs-pRU .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx-sub-0 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-6-udx .auto-group-hzjs-pRU .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx-sub-1 {
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-6-udx .auto-group-hzjs-pRU .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx-sub-2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-6-udx .auto-group-hzjs-pRU .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx .preferred-skills-r-sas-python-matlab-sql-nosql-hive-pig-hadoop-spark-role-and-responsibilities-clean-and-organize-data-predictive-modelling-storytelling-and-visualizing-math-stats-and-machine-learning-distributed-computing-UXx-sub-3 {
+    font-size: 2.2rem;
+    font-weight: 400;
+    line-height: 1.3636363636;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-6-udx .auto-group-hzjs-pRU .data-scientists-employ-their-analytical-and-statistical-skills-to-analyze-complex-datasets-extract-insights-and-build-predictive-models-they-utilize-various-machine-learning-algorithms-and-statistical-techniques-to-gain-valuable-business-insights-make-data-driven-decisions-and-develop-solutions-to-solve-specific-problems-data-scientists-play-a-key-role-in-exploring-and-exploiting-the-potential-of-data-for-organizational-growth-Fj4 {
+    width: 117rem;
+    height: 22.8rem;
+    position: absolute;
+    left: 34.1rem;
+    top: 3.7rem;
+    font-size: 2.6rem;
+    font-weight: 400;
+    line-height: 1.4615384615;
+    font-style: italic;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.page-6-udx .auto-group-hzjs-pRU .this-website-is-run-by-florence-group-the-data-collected-from-this-was-done-be-processed-by-ryxhna-bgS {
+    width: 73.7rem;
+    height: 1.9rem;
+    position: absolute;
+    left: 57.15rem;
+    top: 57.2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #6d6d6d;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.page-6-udx .auto-group-ff1g-str {
+    width: 92.1rem;
+    height: 14.2rem;
+    position: absolute;
+    left: 32.4rem;
+    top: 4.4rem;
+}
+
+.page-6-udx .auto-group-ff1g-str .select-your-professions-career-Qdt {
+    width: 73.9rem;
+    height: 8.4rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 6.4rem;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #000000;
+    font-family: Crimson Text, 'Source Sans Pro';
+    white-space: nowrap;
+}
+
+.page-6-udx .auto-group-ff1g-str .to-make-informed-career-decisions-its-important-to-understand-the-distinct-roles-within-the-data-and-artificial-intelligence-ai-field-Wwp {
+    width: 92.1rem;
+    height: 5.9rem;
+    position: absolute;
+    left: 0;
+    top: 8.3rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+}
